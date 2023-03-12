@@ -1,7 +1,6 @@
 motor
 numpy
 Pillow
-yt-dlp
 aiohttp
 hachoir
 olefile
